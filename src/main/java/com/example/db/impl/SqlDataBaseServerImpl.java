@@ -9,4 +9,8 @@ public class SqlDataBaseServerImpl implements DataBaseServer {
     public List getData() {
         return null;
     }
+
+    //test
+    private String dbName;
+    private String dbUrl;
 }
